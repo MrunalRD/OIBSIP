@@ -31,6 +31,6 @@ A web application that converts temperatures between Celsius, Fahrenheit, and Ke
 
 
 ## Technologies Used
-HTML
-CSS
-JavaScript (for Task 3)
+- HTML
+- CSS
+- JavaScript (for Task 3)
